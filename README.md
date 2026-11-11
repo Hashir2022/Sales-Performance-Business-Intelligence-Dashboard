@@ -1,33 +1,40 @@
+# Sales Performance & Business Intelligence Dashboard
 
-# 📊 Sales Performance & Business Intelligence Dashboard
+<p align="center">
+  <strong>Turning Business Data into Actionable Insights with Microsoft Power BI</strong>
+</p>
 
-### Microsoft Power BI | Data Analytics | Business Intelligence
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-5A2C91?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DAX-Analytics-0078D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Business-Intelligence-16865A?style=for-the-badge">
+</p>
 
-An interactive **Sales Performance & Business Intelligence Dashboard** developed using Microsoft Power BI to analyze sales, profit, costs, customer performance, regional trends, and business growth.
+An interactive **Sales Performance & Business Intelligence Dashboard** developed using Microsoft Power BI to analyze sales, profitability, orders, customers, products, regional performance, and business trends.
 
-This project transforms retail sales data into meaningful insights through interactive visualizations, KPI indicators, time-intelligence analysis, and data-driven reporting.
+The dashboard transforms retail data into meaningful business insights through interactive visualizations, KPI indicators, time-intelligence calculations, and comparative reporting.
 
 ---
 
 ## 📌 Project Overview
 
-This project is based on a retail business analytics scenario for ABC Retail Company. The objective is to help management monitor business performance, identify sales trends, compare actual sales against targets, and make informed business decisions.
+This project is based on a retail business analytics scenario for **ABC Retail Company**. Its objective is to help management monitor business performance, compare actual sales against targets, identify sales trends, and support informed business decisions.
 
-The dashboard provides an interactive view of business performance across different years, months, regions, categories, customers, and products.
+Users can explore performance across different years, months, regions, cities, product categories, customers, and products through interactive filters and visual reports.
 
-## 🎯 Project Objectives
+## 🎯 Business Objectives
 
-- Monitor overall sales and business performance.
-- Analyze sales, profit, costs, expenses, and orders.
-- Compare performance across regions and product categories.
-- Evaluate actual sales against targets and budgets.
-- Identify top-performing products and customers.
-- Analyze historical trends and sales patterns.
-- Explore sales forecasting and time-based performance.
+- Monitor overall sales, profit, costs, expenses, and orders.
+- Compare actual sales against targets and budgets.
+- Analyze regional and category-wise performance.
+- Identify top-performing customers and products.
+- Track historical sales trends and patterns.
+- Present business KPIs through interactive dashboards.
 
-## 🚀 Dashboard Features
+## 📊 Dashboard Modules
 
-### 1. Sales Overview Dashboard
+### 1. Sales Overview
 - Total Sales and Average Sales
 - Total Profit, Cost, and Expenses
 - Total Orders and Quantity Sold
@@ -38,25 +45,22 @@ The dashboard provides an interactive view of business performance across differ
 
 ### 2. Actual vs Budget Analysis
 - Actual Sales vs Sales Targets
-- Regional and Category Performance
+- Regional and Category Comparisons
 - City-wise Sales Distribution
 - Monthly Sales Performance
 - Target Achievement Analysis
 
-### 3. Trend Analysis Dashboard
+### 3. Trend Analysis
 - Orders and Customers by Year
 - Sales and Target Trends
 - Daily Sales Trends
 - Top 10 Customers by Sales and Profit
 - Sub-Category Contribution
-- Sales Forecasting
+- Sales Forecasting Visuals
 
 ### 4. Detailed Sales Analysis
-- Yearly and Monthly Sales Analysis
-- Last Day Sales
-- Last Month Sales
-- Last Quarter Sales
-- Last Year Sales
+- Yearly and Monthly Sales
+- Last Day, Last Month, Last Quarter and Last Year Sales
 - Month-to-Date (MTD)
 - Quarter-to-Date (QTD)
 - Year-to-Date (YTD)
@@ -64,44 +68,65 @@ The dashboard provides an interactive view of business performance across differ
 
 ## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
+| Technology | Purpose |
 |---|---|
 | Microsoft Power BI Desktop | Dashboard Development |
 | Power Query | Data Cleaning & Transformation |
-| DAX | Measures & Calculations |
-| Data Modeling | Relationships & Data Structure |
+| DAX | Measures and Calculations |
+| Data Modeling | Relationships and Data Structure |
 | Date Table | Time Intelligence |
-| Data Visualization | Interactive Charts & KPIs |
+| Data Visualization | Interactive Charts and KPIs |
 
-## 📈 Key Insights
+## 📈 Key Metrics & Insights
 
-Based on the completed dashboard:
+| Business Metric | Reported Value |
+|---|---:|
+| Total Sales | **$112.88 Million** |
+| Total Orders | **6,694** |
 
-- Total Sales reached approximately **$112.88 Million**.
-- Total Orders: **6,694**.
+**Key observations:**
 - Sales showed an overall upward trend from January 2022 to December 2024.
 - 2024 recorded the highest number of orders.
-- Regional, category, customer, and product performance can be explored interactively.
-- Historical sales analysis highlights important trends and unusual sales movements.
+- Regional, customer, product, and category performance can be explored interactively.
+- Historical analysis helps identify sales patterns and performance changes.
 
-## 📂 Project Files
+*Reported values reflect the completed dashboard and may vary with selected filters.*
 
-| File | Description |
-|---|---|
-| `.pbix` | Power BI project file |
-| `README.md` | Project documentation |
-| `Screenshots/` | Dashboard previews (if uploaded) |
-| `.pdf` | Project report (if uploaded) |
+## 🖼️ Dashboard Preview
 
-## 💻 How to Use
+Add your actual dashboard screenshots here:
+
+![Sales Dashboard](Screenshot%202026-11-08%20212010.png)
+
+![Additional Dashboard View](Screenshot%202026-11-08%20212022.png)
+
+## 📂 Project Structure
+
+- Power BI project file (`.pbix`)
+- Project data files
+- Dashboard screenshots
+- README documentation
+
+## 🚀 How to Use
 
 1. Download or clone this repository.
 2. Install Microsoft Power BI Desktop.
 3. Open the `.pbix` project file.
-4. Explore the dashboard pages.
-5. Use slicers and filters to analyze different business dimensions.
+4. Update the data source path if required.
+5. Refresh the data.
+6. Explore dashboard pages using slicers, filters, and interactive visuals.
 
+## 💡 Skills Demonstrated
 
+- Business Intelligence and Data Analytics
+- Power BI Dashboard Development
+- Data Cleaning using Power Query
+- DAX Measures and Calculations
+- Data Modeling and Relationships
+- KPI Development
+- Time Intelligence
+- Interactive Data Visualization
+- Business Performance Analysis
 
 ## 👨‍💻 Author
 
@@ -110,10 +135,14 @@ Based on the completed dashboard:
 Software Engineer | Data Analytics | Business Intelligence
 
 - GitHub: [Hashir2022](https://github.com/Hashir2022)
-- LinkedIn: [Engr. Hashir Ahmed Buriro](https://linkedin.com/in/engr-hashir-ahmed-buriro/)
+- LinkedIn: [Engr. Hashir Ahmed Buriro](https://www.linkedin.com/in/engr-hashir-ahmed-buriro/)
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository and share your feedback.
+<p align="center">
+  <strong>⭐ If you find this project useful, consider giving it a star!</strong>
+</p>
 
-**Turning Data into Insights, and Insights into Decisions!**
+<p align="center">
+  <em>Turning Data into Insights, and Insights into Better Decisions.</em>
+</p>
